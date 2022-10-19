@@ -1,0 +1,15 @@
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/benkunkel/Projects/Methods/Methods/bin/Debug/net6.0/Methods
+/Users/benkunkel/Projects/Methods/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/benkunkel/Projects/Methods/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/benkunkel/Projects/Methods/Methods/bin/Debug/net6.0/Methods.dll
+/Users/benkunkel/Projects/Methods/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.dll
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/benkunkel/Projects/Methods/Methods/obj/Debug/net6.0/ref/Methods.dll
